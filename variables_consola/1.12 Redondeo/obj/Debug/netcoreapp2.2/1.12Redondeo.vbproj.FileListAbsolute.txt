@@ -1,0 +1,10 @@
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.deps.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.runtimeconfig.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.runtimeconfig.dev.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\bin\Debug\netcoreapp2.2\1.12Redondeo.pdb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.vbproj.CoreCompileInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.AssemblyInfoInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.AssemblyInfo.vb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.12Redondeo\obj\Debug\netcoreapp2.2\1.12Redondeo.pdb

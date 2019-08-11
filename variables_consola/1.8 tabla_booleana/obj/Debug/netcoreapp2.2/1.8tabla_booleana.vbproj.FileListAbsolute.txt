@@ -1,0 +1,10 @@
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\bin\Debug\netcoreapp2.2\1.8tabla_booleana.deps.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\bin\Debug\netcoreapp2.2\1.8tabla_booleana.runtimeconfig.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\bin\Debug\netcoreapp2.2\1.8tabla_booleana.runtimeconfig.dev.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\bin\Debug\netcoreapp2.2\1.8tabla_booleana.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\bin\Debug\netcoreapp2.2\1.8tabla_booleana.pdb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\obj\Debug\netcoreapp2.2\1.8tabla_booleana.vbproj.CoreCompileInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\obj\Debug\netcoreapp2.2\1.8tabla_booleana.AssemblyInfoInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\obj\Debug\netcoreapp2.2\1.8tabla_booleana.AssemblyInfo.vb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\obj\Debug\netcoreapp2.2\1.8tabla_booleana.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.8tabla_booleana\obj\Debug\netcoreapp2.2\1.8tabla_booleana.pdb

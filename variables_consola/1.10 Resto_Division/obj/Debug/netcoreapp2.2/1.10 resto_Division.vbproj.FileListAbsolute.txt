@@ -1,0 +1,10 @@
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\bin\Debug\netcoreapp2.2\1.10 resto_Division.deps.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\bin\Debug\netcoreapp2.2\1.10 resto_Division.runtimeconfig.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\bin\Debug\netcoreapp2.2\1.10 resto_Division.runtimeconfig.dev.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\bin\Debug\netcoreapp2.2\1.10 resto_Division.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\bin\Debug\netcoreapp2.2\1.10 resto_Division.pdb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\obj\Debug\netcoreapp2.2\1.10 resto_Division.vbproj.CoreCompileInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\obj\Debug\netcoreapp2.2\1.10 resto_Division.AssemblyInfoInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\obj\Debug\netcoreapp2.2\1.10 resto_Division.AssemblyInfo.vb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\obj\Debug\netcoreapp2.2\1.10 resto_Division.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.10Resto_Division\obj\Debug\netcoreapp2.2\1.10 resto_Division.pdb

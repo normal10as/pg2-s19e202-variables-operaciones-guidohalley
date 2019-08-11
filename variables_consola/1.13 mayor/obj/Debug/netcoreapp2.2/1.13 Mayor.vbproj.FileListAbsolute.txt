@@ -1,0 +1,11 @@
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\obj\Debug\netcoreapp2.2\1.13 Mayor.vbprojAssemblyReference.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\obj\Debug\netcoreapp2.2\1.13 Mayor.vbproj.CoreCompileInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\obj\Debug\netcoreapp2.2\1.13 Mayor.AssemblyInfoInputs.cache
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\obj\Debug\netcoreapp2.2\1.13 Mayor.AssemblyInfo.vb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\bin\Debug\netcoreapp2.2\1.13 Mayor.deps.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\bin\Debug\netcoreapp2.2\1.13 Mayor.runtimeconfig.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\bin\Debug\netcoreapp2.2\1.13 Mayor.runtimeconfig.dev.json
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\bin\Debug\netcoreapp2.2\1.13 Mayor.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\bin\Debug\netcoreapp2.2\1.13 Mayor.pdb
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\obj\Debug\netcoreapp2.2\1.13 Mayor.dll
+C:\Users\Guido Halley\Desktop\visual\variables_consola\1.13mayor\obj\Debug\netcoreapp2.2\1.13 Mayor.pdb
