@@ -15,7 +15,7 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.5 Cuadratica", "1.5 Cuadr
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.6 suma_promedio", "1.16 suma_promedio\1.6 suma_promedio.vbproj", "{F01BABF0-D618-4123-AFAB-20640E1DEE01}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.7equivalencia_dias", "1.7equivalencia_dias\1.7equivalencia_dias.vbproj", "{64B7E78F-6F7F-4B1C-A3ED-44B910101CB5}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.7 equivalencia_dias", "1.7equivalencia_dias\1.7 equivalencia_dias.vbproj", "{64B7E78F-6F7F-4B1C-A3ED-44B910101CB5}"
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.8 tabla_booleana", "1.8tabla_booleana\1.8 tabla_booleana.vbproj", "{6F55348B-C31A-4DDF-A73C-DBAC904AD41C}"
 EndProject
