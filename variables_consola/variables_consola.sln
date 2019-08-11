@@ -17,19 +17,19 @@ Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.6 suma_promedio", "1.16 s
 EndProject
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.7equivalencia_dias", "1.7equivalencia_dias\1.7equivalencia_dias.vbproj", "{64B7E78F-6F7F-4B1C-A3ED-44B910101CB5}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.8tabla_booleana", "1.8tabla_booleana\1.8tabla_booleana.vbproj", "{6F55348B-C31A-4DDF-A73C-DBAC904AD41C}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.8 tabla_booleana", "1.8tabla_booleana\1.8 tabla_booleana.vbproj", "{6F55348B-C31A-4DDF-A73C-DBAC904AD41C}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.9interes", "1.9interes\1.9interes.vbproj", "{4CBCDE25-9216-41D4-858B-D8E2DC7F8A9F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.9 interes", "1.9interes\1.9 interes.vbproj", "{4CBCDE25-9216-41D4-858B-D8E2DC7F8A9F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.10 resto_Division", "1.10Resto_Division\1.10 resto_Division.vbproj", "{1A2A9CA9-688F-489F-BA13-B7728F53F32F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.10 resto_Division", "1.10Resto_Division\1.10 resto_Division.vbproj", "{1A2A9CA9-688F-489F-BA13-B7728F53F32F}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.11 matematica1", "1.11 matematica1\1.11 matematica1.vbproj", "{42CBA82C-BA96-4BD2-B010-49ABE02442F0}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.11 matematica1", "1.11 matematica1\1.11 matematica1.vbproj", "{42CBA82C-BA96-4BD2-B010-49ABE02442F0}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.12 Redondeo", "1.12Redondeo\1.12 Redondeo.vbproj", "{5E6399BC-08B0-4F7B-956E-E3C80FB47D70}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.12 Redondeo", "1.12Redondeo\1.12 Redondeo.vbproj", "{5E6399BC-08B0-4F7B-956E-E3C80FB47D70}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.13 Mayor", "1.13mayor\1.13 Mayor.vbproj", "{CB142EE2-A738-4B0A-AF1D-EEF1A4CC4903}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.13 Mayor", "1.13mayor\1.13 Mayor.vbproj", "{CB142EE2-A738-4B0A-AF1D-EEF1A4CC4903}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "1.14 Cadenas1", "1.14 Cadenas1\1.14 Cadenas1.vbproj", "{027F6C89-E34A-4F8B-A081-08DF88B46A0C}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "1.14 Cadenas1", "1.14 Cadenas1\1.14 Cadenas1.vbproj", "{027F6C89-E34A-4F8B-A081-08DF88B46A0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
