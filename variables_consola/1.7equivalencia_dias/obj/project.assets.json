@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guido Halley\\Desktop\\visual\\variables_consola\\1.7equivalencia_dias\\1.7equivalencia_dias.vbproj",
+      "projectUniqueName": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.7equivalencia_dias\\1.7equivalencia_dias.vbproj",
       "projectName": "1.7equivalencia_dias",
-      "projectPath": "C:\\Users\\Guido Halley\\Desktop\\visual\\variables_consola\\1.7equivalencia_dias\\1.7equivalencia_dias.vbproj",
+      "projectPath": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.7equivalencia_dias\\1.7equivalencia_dias.vbproj",
       "packagesPath": "C:\\Users\\Guido Halley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guido Halley\\Desktop\\visual\\variables_consola\\1.7equivalencia_dias\\obj\\",
+      "outputPath": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.7equivalencia_dias\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

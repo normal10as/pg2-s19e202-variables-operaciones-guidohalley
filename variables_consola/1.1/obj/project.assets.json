@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.1\\1.1.vbproj",
-      "projectName": "1.1",
-      "projectPath": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.1\\1.1.vbproj",
+      "projectUniqueName": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.1\\1.1 variables.vbproj",
+      "projectName": "1.1 variables",
+      "projectPath": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.1\\1.1 variables.vbproj",
       "packagesPath": "C:\\Users\\Guido Halley\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.1\\obj\\",
       "projectStyle": "PackageReference",

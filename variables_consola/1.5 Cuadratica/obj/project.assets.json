@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Guido Halley\\Desktop\\visual\\variables_consola\\1.5 Cuadratica\\1.5 Cuadratica.vbproj",
+      "projectUniqueName": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.5 Cuadratica\\1.5 Cuadratica.vbproj",
       "projectName": "1.5 Cuadratica",
-      "projectPath": "C:\\Users\\Guido Halley\\Desktop\\visual\\variables_consola\\1.5 Cuadratica\\1.5 Cuadratica.vbproj",
+      "projectPath": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.5 Cuadratica\\1.5 Cuadratica.vbproj",
       "packagesPath": "C:\\Users\\Guido Halley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Guido Halley\\Desktop\\visual\\variables_consola\\1.5 Cuadratica\\obj\\",
+      "outputPath": "C:\\Users\\Guido Halley\\Source\\Repos\\normal10as\\pg2-s19e202-variables-operaciones-guidohalley\\variables_consola\\1.5 Cuadratica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
